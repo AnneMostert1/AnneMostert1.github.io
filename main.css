@@ -14,9 +14,9 @@ width:85%;
 img{
     display: block;
     margin:auto;
-    width: 50%;
+    width: 650px;
     margin-bottom: 50px;
-        
+   
 }
 
 h1{
@@ -54,11 +54,6 @@ margin-bottom: 30px;
     font-family:'Bebas Neue', cursive;
     text-align: center;
     margin:auto;
-    font-size:24px;
+    font-size:28px;
     margin-bottom:30px;
-}
-
-.container{
-    display:flex;
-    flex-direction:row;
 }
