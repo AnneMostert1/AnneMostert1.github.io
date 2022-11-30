@@ -13,9 +13,9 @@ width:85%;
 
 img{
     display: block;
-    margin:auto;
-    width: 650px;
+    width: 350px;
     margin-bottom: 50px;
+
    
 }
 
@@ -27,9 +27,7 @@ font-size: 80px;
 }
 
 p{
-   width:75%;
-    margin:auto;
-font-size:18px;
+font-size:19px;
 }
 
 a{
@@ -47,7 +45,9 @@ a:hover, a:active{
 }
 
 .textaboutme{
-margin-bottom: 30px;
+margin-bottom: 20px;
+margin-top:0px;
+margin-left:30px;
 }
 
 .links{
@@ -56,4 +56,10 @@ margin-bottom: 30px;
     margin:auto;
     font-size:28px;
     margin-bottom:30px;
+}
+
+.container{
+    display:flex;
+    flex-direction:row;
+    margin:auto;
 }
