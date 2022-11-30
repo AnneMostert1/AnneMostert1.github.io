@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@200;400&family=Bebas+Neue&display=swap');
+
+body{
+background-color:lavenderblush;
+font-family:'Anek Devanagari', sans-serif;
+font-size:20px;
+/* letter-spacing:2px; */
+color:darkred;
+line-height: 24px;
+width:85%;
+    margin:auto;
+}
+
+img{
+    display: block;
+    margin:auto;
+    width: 50%;
+    margin-bottom: 50px;
+        
+}
+
+h1{
+font-family:'Bebas Neue', cursive;
+letter-spacing:1px;
+text-align: center;
+font-size: 80px;
+}
+
+p{
+   width:75%;
+    margin:auto;
+font-size:18px;
+}
+
+a{
+    color:cadetblue;
+    text-decoration:none;
+}
+
+a:link, a:visited{
+    color:lightcoral;
+    text-decoration:none;
+}
+
+a:hover, a:active{
+    color:rgb(50, 18, 146);
+}
+
+.textaboutme{
+margin-bottom: 30px;
+}
+
+.links{
+    font-family:'Bebas Neue', cursive;
+    text-align: center;
+    margin:auto;
+    font-size:24px;
+    margin-bottom:30px;
+}
